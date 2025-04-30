@@ -128,3 +128,4 @@ const FitnessTips = () => {
 };
 
 export default FitnessTips;
+
